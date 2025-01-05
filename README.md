@@ -4,6 +4,8 @@
 This project involves building a custom Ender 3 3D printer with a 4-in-1-out mixing hotend to enable multi-material and gradient extrusion capabilities. The printer integrates advanced hardware and software components to deliver precise and flexible printing performance.
 
 ---
+[![Video](https://img.youtube.com/vi/K2hD6ypBLYY/maxresdefault.jpg)](https://www.youtube.com/watch?v=K2hD6ypBLYY)
+---
 
 ## Hardware Components
 
